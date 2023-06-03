@@ -129,7 +129,7 @@ function init() {
         mode: 'markers',
         marker: {
           color: result.sample_values,
-          colorscale: 'Earth',
+          colorscale: result.otu_ids,
           size: result.sample_values,
           //set 'sizeref' to an 'ideal' size given by the formula:
           sizeref: (2.0 * Math.max(...result.sample_values)) / 100 ** 2,
