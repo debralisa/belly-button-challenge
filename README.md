@@ -51,8 +51,8 @@ I am deploying my app to GitHub Pages and submitting the link to the deployment 
 
 ### File Names/Folder Names
 
-# ReadMe.md, index.html (html file), Static folder containing JS folder with: app2.js (main javascript file with demographic panel, bar and bubble charts scripting) bonus2.js (javascript file with bonus gauge script), Data folder with data file: sample json data file (samples.json).​
+ReadMe.md, index.html (html file), Static folder containing JS folder with: app2.js (main javascript file with demographic panel, bar and bubble charts scripting) bonus2.js (javascript file with bonus gauge script), Data folder with data file: sample json data file (samples.json).​
 
 ### Resources
 
-# I used most of the module 14 activities to assist with the main scripting.  For the Gauge scripting, I used several resources: websites (https://plotly.com/javascript/gauge-charts/, https://plotly.com/javascript/gauge-charts/#custom-gauge-chart, https://observablehq.com/@arronhunt/building-a-gauge-meter-with-plotly) and people (Jonathan Caro).
+I used most of the module 14 activities to assist with the main scripting.  For the Gauge scripting, I used several resources: websites (https://plotly.com/javascript/gauge-charts/, https://plotly.com/javascript/gauge-charts/#custom-gauge-chart, https://observablehq.com/@arronhunt/building-a-gauge-meter-with-plotly) and people (Jonathan Caro).
